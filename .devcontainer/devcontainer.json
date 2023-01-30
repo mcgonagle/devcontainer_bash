@@ -57,7 +57,7 @@
 		"ruby": "latest",
 		"rust": "latest",
 		"powershell": "latest",
-		"dotnet": "latest",
-		"jupyterlab": "latest"
+		"dotnet": "latest"
+		//"jupyterlab": "latest"
 	}
 }
